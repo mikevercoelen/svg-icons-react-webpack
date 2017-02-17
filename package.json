@@ -1,0 +1,35 @@
+{
+  "name": "svg-icons-react-webpack",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "webpack-dev-server --open --content-base ./src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikevercoelen/svg-icons-react-webpack.git"
+  },
+  "author": "Mike Vercoelen <mike.vercoelen@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikevercoelen/svg-icons-react-webpack/issues"
+  },
+  "homepage": "https://github.com/mikevercoelen/svg-icons-react-webpack#readme",
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-preset-latest": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "babel-preset-stage-0": "^6.22.0",
+    "html-webpack-plugin": "^2.28.0",
+    "svg-sprite-loader": "^0.3.0",
+    "svgo": "^0.7.2",
+    "svgo-loader": "^1.1.2",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.3.0"
+  },
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "styled-components": "^1.4.3"
+  }
+}
