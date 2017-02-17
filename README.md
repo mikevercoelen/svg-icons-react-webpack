@@ -2,7 +2,7 @@
 
 This is an example of implementing SVG sprite icons for React and Webpack
 
-More information see Codersmind blog here: [SVG Sprite icons for React and Webpack](https://codersmind.com/svg-icons-sprite-map-react-webpack/)
+More information see Codersmind blog here: [SVG Sprite icons for React and Webpack](https://codersmind.com/svg-sprite-icons-react-webpack/)
 
 ***
 
